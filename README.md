@@ -4,6 +4,7 @@
 * Turno: **Noturno**
 * Prof.: **Lesandro Ponciano**
 * Semestre: **2020.1**
+* Período: 3º período do curso
 
 # Uso e contribuição com materiais
 
