@@ -1,9 +1,9 @@
 # Introdução à Pesquisa em Informática 
 
-## Curso: Engenharia de Software na PUC Minas - Praça da Liberdade
-## Turno: Noturno
-## Prof.: Lesandro Ponciano
-## Semestre: 2020.1
+* Curso: **Engenharia de Software na PUC Minas - Praça da Liberdade**
+* Turno: **Noturno**
+* Prof.: **Lesandro Ponciano**
+* Semestre: **2020.1**
 
 # Uso e contribuição com materiais
 
