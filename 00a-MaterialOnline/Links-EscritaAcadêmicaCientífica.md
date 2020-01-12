@@ -21,8 +21,11 @@
 ### Projeto de Pesquisa ###
 
 * [Modelo básico para elaboração de um projeto de pesquisa](http://www.ufrgs.br/laviecs/biblioteca/arquivos/como_fazer_%20pesquisa.pdf)
-
 * [Etapas de um Projeto de Pesquisa](https://monografias.brasilescola.uol.com.br/regras-abnt/projeto-pesquisa.htm)
+
+### Resenhas ###
+- [Dicas para escrever uma resenha](https://www.youtube.com/watch?v=7-cV9ImQsKQ)
+- [Como fazer uma resenha? Resenha e resumo é a mesma coisa?](https://www.youtube.com/watch?v=lqWPPB9WpAE)
 
 
 ## Dicas Gerais de Escrita em Português ##
