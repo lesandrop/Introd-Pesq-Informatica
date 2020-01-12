@@ -1,0 +1,21 @@
+01. Agile software development
+02. Software configuration management and deployment
+03. Experimental software engineering
+04. Human and social aspects of software engineering
+05. Mining software repositories and software analytics
+06. Model-driven software development
+07. Open source software
+08. Requirements engineering
+09. Search-based software engineering
+10. Software architecture
+11. Software maintenance and evolution
+12. Software modularity
+13. Software processes
+14. Software quality and quality models
+15. Software reuse
+16. Software startups
+17. Software testing and verification
+18. Theoretical foundations and formal methods
+
+
+lesandrop at pucminas.br
