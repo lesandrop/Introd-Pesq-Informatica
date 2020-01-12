@@ -23,7 +23,7 @@
 * [Etapas de um Projeto de Pesquisa](https://monografias.brasilescola.uol.com.br/regras-abnt/projeto-pesquisa.htm)
 
 
-## Dicas Gerais de Escrita em Português ##
+# Dicas Gerais de Escrita em Português #
 
 * [Erros Gramaticais comuns na Língua Portuguesa - Parte I](https://www.infoescola.com/portugues/erros-gramaticais-comuns-na-lingua-portuguesa-parte-i/)
 * [Os principais erros ortográficos do português](https://www.dicio.com.br/erros-de-ortografia/)
