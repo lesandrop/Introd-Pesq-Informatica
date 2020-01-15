@@ -26,6 +26,8 @@
 ### Resenhas ###
 - [Dicas para escrever uma resenha](https://www.youtube.com/watch?v=7-cV9ImQsKQ)
 - [Como fazer uma resenha? Resenha e resumo é a mesma coisa?](https://www.youtube.com/watch?v=lqWPPB9WpAE)
+- [A produção de resenha acadêmica no ensino superior](http://dx.doi.org/10.17851/2317-4242.2.0.1-13)
+- Exemplo de Resenha ["Resenha: Revisando a Prática de Publicar: Para Profissionais e Estudantes de Psicologia."](http://www.scielo.br/pdf/ptp/v26n4/18.pdf)
 
 
 ## Dicas Gerais de Escrita em Português ##
