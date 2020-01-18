@@ -1,21 +1,26 @@
-01. Agile software development
-02. Software configuration management and deployment
-03. Experimental software engineering
-04. Human and social aspects of software engineering
-05. Mining software repositories and software analytics
-06. Model-driven software development
-07. Open source software
-08. Requirements engineering
-09. Search-based software engineering
-10. Software architecture
-11. Software maintenance and evolution
-12. Software modularity
-13. Software processes
-14. Software quality and quality models
-15. Software reuse
-16. Software startups
-17. Software testing and verification
-18. Theoretical foundations and formal methods
+## Tópicos de Estudo em Engenharia de Software ##
+
+Os seguintes tópicos de esutdo da Engenharia de Software serão trabalhados pelos alunos nas atividades de introdução à pesquisa ao longo do semestre.
+
+1. Agile software development
+1. Software configuration management
+1. Experimental software engineering
+1. Human and social aspects of software engineering
+1. Mining software repositories
+1. Software analytics
+1. Model-driven software development
+1. Open source software
+1. Requirements engineering
+1. Search-based software engineering
+1. Software architecture
+1. Software maintenance and evolution
+1. Software modularity
+1. Software processes
+1. Software quality
+1. Software reuse
+1. Software testing and verification
+1. Theoretical foundations 
+1. Formal methods
 
 
-lesandrop at pucminas.br
+_Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
