@@ -8,7 +8,7 @@
 * Período: **3º período do curso**
 
 ## Slides das Aulas Expositivas
-1. [Nivelamento](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-00-Nivelamento.pdf)
+0. [Nivelamento](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-00-Nivelamento.pdf)
 1. [Introdução à Ciência](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-01-Introdu%C3%A7%C3%A3o%C3%80Ci%C3%AAncia.pdf)
 1. [Como ler textos científicos e registrar o que foi lido?](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-02-ComoLerTextosCient%C3%ADficos.pdf)
 1. [Como escrever texto científico na área de Informática?](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-03-Orienta%C3%A7%C3%B5esDeEscritaCientifica.pdf)
