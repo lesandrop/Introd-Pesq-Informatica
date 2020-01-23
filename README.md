@@ -16,7 +16,7 @@
 1. [Ética e Má Conduta em Pesquisa Científica](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-05-CondutaEtica.pdf)
 
 ## Material online
-Fiz a curadoria de alguns materiais online sobre pesquisa científica. São materiais complementares que considero úteis à unidade curricular. Esse material será indicado na aula apropriada. Isso não impede que os alunos explorem eles a qualquer tempo que desejarem -  o recomendado que o façam. Esta lista é dinâmica, novos materiais podem adicionados e links podem ser removidos ao longo do tempo. Os alunos da unidade curricular podem, inclusive, complementar a lista adicionando links para outros materiais que encontrarem na Internet. Para isso, façam _pull request_. Os materiais encontram-se organizados em três categorias que são:
+Fiz a curadoria de alguns materiais online sobre pesquisa científica. São materiais complementares que considero úteis à unidade curricular. Esse material será indicado na aula apropriada. Isso não impede que os alunos explorem eles a qualquer tempo que desejarem -  é recomendado que o façam. Esta lista é dinâmica, novos materiais podem adicionados e links podem ser removidos ao longo do tempo. Os alunos da unidade curricular podem, inclusive, complementar a lista adicionando links para outros materiais que encontrarem na Internet. Para isso, façam _pull request_. Os materiais encontram-se organizados em três categorias, que são:
 * [Escrita Acadêmica e Científica](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/00a-MaterialOnline/Links-EscritaAcad%C3%AAmicaCient%C3%ADfica.md)
 * [Motivação e Contexto da Ciência no Brasil](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/00a-MaterialOnline/Links-Motiva%C3%A7%C3%A3oECienciaNoBrasil.md)
 * [Ciência em Engenharia de Software e Ciência da Computação](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/00a-MaterialOnline/Links-SoftwareECi%C3%AAncia.md)
@@ -25,3 +25,6 @@ Fiz a curadoria de alguns materiais online sobre pesquisa científica. São mate
 ## Uso e Contribuição com Materiais
 
 Neste repositório está o material que pode ser mantido público. Outros materiais, atividades, roteiros devem ser baixados diretamente do Sistema de Gerenciamento Acadêmico (SGA). Notas e correções de atividades são divulgadas exclusivamente pelo SGA. Os alunos da disciplina podem contribuir com correções e sugestões dos materiais neste repositório por meio de _pull requests_. Tais contribuições poderão, ao fim da disciplina, após análise do professor, serem pontuadas com 1 ponto extra na disciplina.
+
+
+_Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
