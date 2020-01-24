@@ -1,4 +1,6 @@
-# Ciência, Ficção Científica e Tecnologia
+## Filmes Inspiradores em Introdução à Pesquisa Científica
+
+Agui agregamos filmes que tratem de ciência e tecnologia da informação e comunicação (TICs). São reunidos filmes que são principalmente "ficção científica", documentários sobre cientístas e engenheiros de software e filmes inspirados em fatos reais de ciência e cientístas.
 
 * [O Homem que Viu o Infinito (2015)](http://www.adorocinema.com/filmes/filme-225720/criticas-adorocinema/)
 * [O jogo da Imitação (2015)](http://www.adorocinema.com/filmes/filme-198371/)
