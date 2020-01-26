@@ -3,7 +3,7 @@
 ## Informações da Disciplina
 * Curso: **Engenharia de Software na PUC Minas - Praça da Liberdade**
 * Turno: **Noturno**
-* Prof.: **Lesandro Ponciano**
+* Prof.: **Lesandro Ponciano**  [[Lattes iD](http://lattes.cnpq.br/2211388362277178)] - [[Orcid iD](http://orcid.org/0000-0002-5724-0094)]
 * Semestre: **2020.1**
 * Período: **3º período do curso**
 
@@ -20,6 +20,7 @@ Fiz a curadoria de alguns materiais online sobre pesquisa científica. São mate
 * [Escrita Acadêmica e Científica](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/00a-MaterialOnline/Links-EscritaAcad%C3%AAmicaCient%C3%ADfica.md)
 * [Motivação e Contexto da Ciência no Brasil](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/00a-MaterialOnline/Links-Motiva%C3%A7%C3%A3oECienciaNoBrasil.md)
 * [Ciência em Engenharia de Software e Ciência da Computação](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/00a-MaterialOnline/Links-SoftwareECi%C3%AAncia.md)
+* [Filmes Inspiradores em Introdução à Pesquisa Científica](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/00a-MaterialOnline/Links-Filmes.md)
 
 
 ## Uso e Contribuição com Materiais
