@@ -23,6 +23,17 @@ Fiz a curadoria de alguns materiais online sobre pesquisa científica. São mate
 * [Filmes Inspiradores em Introdução à Pesquisa Científica](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/00a-MaterialOnline/Links-Filmes.md)
 
 
+## LaTex
+
+LaTex será usado na unidade curricular como sistema de preparação de documentos. Aqui se encontram reunidos aluns materiais que serão relevantes ao longo das aulas.
+
+* Haverá uma aula sobre o tópico, os [slides](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-04-Come%C3%A7andoAUsarLatex.pdf) e [código](https://github.com/lesandrop/Introd-Pesq-Informatica/tree/master/02-TrabalhosHandsOnOficinas/OficinaLatex) estão disponívies
+
+* Fiz a curadoria de um conjunto de vídeos com aulas de LaTex para os estudantes interessados em se aprofundar no tópico, os vídeos estão [aqui](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-Videos.md).
+
+* Alguns materiais dicionais coletados na internet sobre o tópicos são: [Escrita matemática em LaTex](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-Math.pdf), [Símbolos em LaTex](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-Symbols-a4.pdf) e [Algoritmo em LaTex](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-algorithm2e.pdf).
+
+
 ## Uso e Contribuição com Materiais
 
 Neste repositório está o material que pode ser mantido público. Outros materiais, atividades, roteiros devem ser baixados diretamente do Sistema de Gerenciamento Acadêmico (SGA). Notas e correções de atividades são divulgadas exclusivamente pelo SGA. Os alunos da disciplina podem contribuir com correções e sugestões dos materiais neste repositório por meio de _pull requests_. Tais contribuições poderão, ao fim da disciplina, após análise do professor, serem pontuadas com 1 ponto extra na disciplina.
