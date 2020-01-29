@@ -8,12 +8,12 @@
 * Período: **3º período do curso**
 
 ## Slides das Aulas Expositivas
-0. [Nivelamento](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-00-Nivelamento.pdf)
-1. [Introdução à Ciência](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-01-Introdu%C3%A7%C3%A3o%C3%80Ci%C3%AAncia.pdf)
-1. [Como ler textos científicos e registrar o que foi lido?](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-02-ComoLerTextosCient%C3%ADficos.pdf)
-1. [Como escrever texto científico na área de Informática?](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-03-Orienta%C3%A7%C3%B5esDeEscritaCientifica.pdf)
-1. [Escrevendo o seu texto científico em Latex: 10 dicas básicas](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-04-Come%C3%A7andoAUsarLatex.pdf)
-1. [Ética e Má Conduta em Pesquisa Científica](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-05-CondutaEtica.pdf)
+0. [:notebook: Nivelamento](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-00-Nivelamento.pdf)
+1. [:notebook: Introdução à Ciência](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-01-Introdu%C3%A7%C3%A3o%C3%80Ci%C3%AAncia.pdf)
+1. [:notebook: Como ler textos científicos e registrar o que foi lido?](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-02-ComoLerTextosCient%C3%ADficos.pdf)
+1. [:notebook: Como escrever texto científico na área de Informática?](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-03-Orienta%C3%A7%C3%B5esDeEscritaCientifica.pdf)
+1. [:notebook: Escrevendo o seu texto científico em Latex: 10 dicas básicas](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-04-Come%C3%A7andoAUsarLatex.pdf)
+1. [:notebook: Ética e Má Conduta em Pesquisa Científica](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-05-CondutaEtica.pdf)
 
 ## Material online
 Fiz a curadoria de alguns materiais online sobre pesquisa científica. São materiais complementares que considero úteis à unidade curricular. Esse material será indicado na aula apropriada. Isso não impede que os alunos explorem eles a qualquer tempo que desejarem -  é recomendado que o façam. Esta lista é dinâmica, novos materiais podem adicionados e links podem ser removidos ao longo do tempo. Os alunos da unidade curricular podem, inclusive, complementar a lista adicionando links para outros materiais que encontrarem na Internet. Para isso, façam _pull request_. Os materiais encontram-se organizados em quatro categorias, que são:
@@ -27,11 +27,11 @@ Fiz a curadoria de alguns materiais online sobre pesquisa científica. São mate
 
 LaTex será usado na unidade curricular como sistema de preparação de documentos. Aqui se encontram reunidos aluns materiais que serão relevantes ao longo das aulas.
 
-* Haverá uma aula sobre o tópico, os [slides](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-04-Come%C3%A7andoAUsarLatex.pdf) e [código](https://github.com/lesandrop/Introd-Pesq-Informatica/tree/master/02-TrabalhosHandsOnOficinas/OficinaLatex) estão disponívies
+* Haverá uma aula sobre o tópico, os [:notebook: slides](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-04-Come%C3%A7andoAUsarLatex.pdf) e [código](https://github.com/lesandrop/Introd-Pesq-Informatica/tree/master/02-TrabalhosHandsOnOficinas/OficinaLatex) estão disponívies
 
-* Fiz a curadoria de um conjunto de vídeos com aulas de LaTex para os estudantes interessados em se aprofundar no tópico, os vídeos estão [aqui](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-Videos.md).
+* Fiz a curadoria de um conjunto de vídeos com aulas de LaTex para os estudantes interessados em se aprofundar no tópico, os vídeos estão [:tv: aqui](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-Videos.md).
 
-* Alguns materiais dicionais coletados na internet sobre o tópicos são: [Escrita matemática em LaTex](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-Math.pdf), [Símbolos em LaTex](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-Symbols-a4.pdf) e [Algoritmo em LaTex](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-algorithm2e.pdf).
+* Alguns materiais dicionais coletados na internet sobre o tópicos são: [:notebook:Escrita matemática em LaTex](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-Math.pdf), [:notebook: Símbolos em LaTex](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-Symbols-a4.pdf) e [:notebook: Algoritmo em LaTex](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-algorithm2e.pdf).
 
 
 ## Uso e Contribuição com Materiais
