@@ -25,9 +25,9 @@ Fiz a curadoria de alguns materiais online sobre pesquisa científica. São mate
 
 ## LaTex
 
-LaTex será usado na unidade curricular como sistema de preparação de documentos. Aqui se encontram reunidos aluns materiais que serão relevantes ao longo das aulas.
+LaTex será usado na unidade curricular como sistema de preparação de documentos. Aqui se encontram reunidos alguns materiais que serão relevantes ao longo das aulas.
 
-* Haverá uma aula sobre o tópico, os [:notebook: slides](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-04-Come%C3%A7andoAUsarLatex.pdf) e [código](https://github.com/lesandrop/Introd-Pesq-Informatica/tree/master/02-TrabalhosHandsOnOficinas/OficinaLatex) estão disponívies
+* Haverá uma aula sobre o tópico, os [:notebook: slides](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/01-SlidesDasAulas/IPI-04-Come%C3%A7andoAUsarLatex.pdf) e [código](https://github.com/lesandrop/Introd-Pesq-Informatica/tree/master/02-TrabalhosHandsOnOficinas/OficinaLatex) estão disponívies.
 
 * Fiz a curadoria de um conjunto de vídeos com aulas de LaTex para os estudantes interessados em se aprofundar no tópico, os vídeos estão [:tv: aqui](https://github.com/lesandrop/Introd-Pesq-Informatica/blob/master/05-Ferramentas/Latex-Videos.md).
 
@@ -40,5 +40,6 @@ Neste repositório está o material da unidade curricular que pode ser mantido p
 
 Os estudantes da unidade curricular podem contribuir com correções e sugestões neste repositório por meio de _pull requests_, _issues_ e _comentários_. Tais contribuições poderão, ao fim do semestre, após análise do professor, serem pontuadas com até 3 pontos extras :nerd_face: na unidade curricular. Serão levadas em consideração quatro métricas de engajamento: _activity ratio_, _relative activity duration_, _daily devoted time_, e _variation in periodicity_. Para saber mais sobre essas métricas, leia o artigo [Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects](http://dx.doi.org/10.15346/hc.v1i2.12).
 
+---
 
 _Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
