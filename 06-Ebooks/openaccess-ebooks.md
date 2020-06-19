@@ -16,5 +16,7 @@
 
 1. JARMAI, Katharina. Responsible Innovation: Business Opportunities and Strategies for Implementation. Springer Nature. ISBN: 978-94-024-1720-3 DOI 10.1007/978-94-024-1720-3. Disponível em <https://link.springer.com/book/10.1007/978-94-024-1720-3>
 
+1. Jeunon, Franca Arenare; Lobato, Wolney; Hanriot, Sérgio de Morais. Iniciação científica: destaques 2018.  Belo Horizonte: Editora PUC Minas, 2019. ISBN 978-85-8229-109-2. Disponível em <https://editora.pucminas.br/arquivos/obra/arquivo_digital/201/MIOLOGRAFICA.pdf>
+
 ---
 _Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
