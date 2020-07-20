@@ -12,3 +12,7 @@
 
 * 2018 - [Texto "A ciência cidadã no Brasil" de Lesandro Ponciano no Jornal Estado de Minas em 01/05/2018](https://www.researchgate.net/publication/338224938_A_ciencia_cidada_no_Brasil)
 * 2018 - [Horizonte Notícia Entrevista - Ciência Cidadã](https://www.youtube.com/watch?v=SVMZ7IAZl04)
+
+---
+
+_Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_

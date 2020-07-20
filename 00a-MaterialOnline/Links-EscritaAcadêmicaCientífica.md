@@ -35,4 +35,6 @@
 * [Erros Gramaticais comuns na Língua Portuguesa - Parte I](https://www.infoescola.com/portugues/erros-gramaticais-comuns-na-lingua-portuguesa-parte-i/)
 * [Os principais erros ortográficos do português](https://www.dicio.com.br/erros-de-ortografia/)
 
-*lesandrop at pucminas.br*
+---
+
+_Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_

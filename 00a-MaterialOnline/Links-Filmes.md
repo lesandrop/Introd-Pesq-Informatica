@@ -9,3 +9,7 @@ Agui agregamos filmes que tratem de ciência e tecnologia da informação e comu
 1. [Ex_Machina: Instinto Artificial (2014)](https://www.imdb.com/title/tt0470752/)
 1. [Uma Mente Brilhante (2002)](http://www.adorocinema.com/filmes/filme-28384/)
 1. [Matrix (1999)](https://www.imdb.com/title/tt0133093/)
+
+---
+
+_Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
