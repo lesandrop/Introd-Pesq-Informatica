@@ -1,6 +1,6 @@
 ## Tópicos de Estudo em Engenharia de Software ##
 
-Os seguintes tópicos de esutdo da Engenharia de Software serão trabalhados pelos alunos nas atividades de introdução à pesquisa ao longo do semestre.
+Os seguintes tópicos de estudo da Engenharia de Software serão trabalhados pelos alunos nas atividades de introdução à pesquisa ao longo do semestre.
 
 1. Agile software development
 1. Software configuration management
@@ -22,5 +22,7 @@ Os seguintes tópicos de esutdo da Engenharia de Software serão trabalhados pel
 1. Theoretical foundations 
 1. Formal methods
 
+
+---
 
 _Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
