@@ -13,6 +13,12 @@
 1. [:notebook: Como escrever texto científico na área de Informática?](01-SlidesDasAulas/IPI-03-Orienta%C3%A7%C3%B5esDeEscritaCientifica.pdf)
 1. [:notebook: Escrevendo o seu texto científico em Latex: 10 dicas básicas](01-SlidesDasAulas/IPI-04-Come%C3%A7andoAUsarLatex.pdf)
 1. [:notebook: Ética e Má Conduta em Pesquisa Científica](01-SlidesDasAulas/IPI-05-CondutaEtica.pdf)
+1. [:notebook: Projeto de Pesquisa - Parte 1: Introdução](01-SlidesDasAulas/IPI-Projeto1-Introdução.pdf)
+1. [:notebook: Projeto de Pesquisa - Parte 2: Fundamentação teórica e trabalhos relacionados](01-SlidesDasAulas/IPI-Projeto2-FundamentaçãoTeóricaTrabalhosRelacionados.pdf)
+1. [:notebook: Projeto de Pesquisa - Parte 3: Materiais e Métodos](01-SlidesDasAulas/IPI-Projeto3-MateriaisMétodos.pdf)
+1. [:notebook: Projeto de Pesquisa - Parte 4: Evidências de Viabilidade](01-SlidesDasAulas/IPI-Projeto4-EvidênciasViabilidade.pdf)
+1. :notebook: Projeto de Pesquisa - Parte 5: Título e Resumo
+
 
 ## Material online
 Fiz a curadoria de alguns materiais online sobre pesquisa científica. São materiais complementares que considero úteis à unidade curricular. Esse material será indicado na aula apropriada. Isso não impede que os alunos explorem eles a qualquer tempo que desejarem -  é recomendado que o façam. Esta lista é dinâmica, novos materiais podem adicionados e links podem ser removidos ao longo do tempo. Os alunos da unidade curricular podem, inclusive, complementar a lista adicionando links para outros materiais que encontrarem na Internet. Para isso, façam _pull request_. Os materiais encontram-se organizados em quatro categorias, que são:
