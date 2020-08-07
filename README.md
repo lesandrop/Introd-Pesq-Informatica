@@ -19,6 +19,9 @@
 1. [:notebook: Projeto de Pesquisa - Parte 4: Evidências de Viabilidade](01-SlidesDasAulas/IPI-Projeto4-EvidênciasViabilidade.pdf)
 1. :notebook: Projeto de Pesquisa - Parte 5: Título e Resumo
 
+## Atividades
+
+* [Atividade 1: Memorial Acadêmcico-científico](02-TrabalhosHandsOnOficinas/IPI-MemorialAcademicoCientifico.pdf)
 
 ## Material online
 Fiz a curadoria de alguns materiais online sobre pesquisa científica. São materiais complementares que considero úteis à unidade curricular. Esse material será indicado na aula apropriada. Isso não impede que os alunos explorem eles a qualquer tempo que desejarem -  é recomendado que o façam. Esta lista é dinâmica, novos materiais podem adicionados e links podem ser removidos ao longo do tempo. Os alunos da unidade curricular podem, inclusive, complementar a lista adicionando links para outros materiais que encontrarem na Internet. Para isso, façam _pull request_. Os materiais encontram-se organizados em quatro categorias, que são:
