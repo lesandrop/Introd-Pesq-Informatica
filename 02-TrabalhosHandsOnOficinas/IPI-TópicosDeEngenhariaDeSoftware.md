@@ -1,7 +1,8 @@
-## Tópicos de Estudo em Engenharia de Software ##
+# Tópicos de Estudo em Engenharia de Software 
 
 Os seguintes tópicos de estudo da Engenharia de Software serão trabalhados pelos alunos nas atividades de introdução à pesquisa ao longo do semestre.
 
+## Tópicos tradicionais
 
 |Português                                    |Inglês                                       |
 |---------------------------------------------|---------------------------------------------|
@@ -36,6 +37,12 @@ Os seguintes tópicos de estudo da Engenharia de Software serão trabalhados pel
 |Design participativo                         |Participatory design|
 |Linguagem de Modelagem Unificada             |Unified Modeling Language|
 |Verificação de modelos de software           |Software model checking|
+
+## Tópicos mais recentes
+
+|Português                                    |Inglês                                       |
+|---------------------------------------------|---------------------------------------------|
+|Technical debt management                    | |
 
 ---
 
