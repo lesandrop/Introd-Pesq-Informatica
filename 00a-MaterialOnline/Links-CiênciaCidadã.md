@@ -12,6 +12,7 @@
 
 * 2018 - [Texto "A ciência cidadã no Brasil" de Lesandro Ponciano no Jornal Estado de Minas em 01/05/2018](https://www.researchgate.net/publication/338224938_A_ciencia_cidada_no_Brasil)
 * 2018 - [Horizonte Notícia Entrevista - Ciência Cidadã](https://www.youtube.com/watch?v=SVMZ7IAZl04)
+* 2019 - [ICEI Talk: Ciência Participativa e Cidadã na Perspectiva da Tecnologia](https://www.youtube.com/watch?v=efPpGPp8Jtk)
 
 ---
 
