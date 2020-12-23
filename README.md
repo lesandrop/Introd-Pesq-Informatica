@@ -12,7 +12,7 @@
 1. [:notebook: Ciência cidadã, extensão universitária e ética na ciência](01-SlidesDasAulas/IPI-03-CiênciaCidadãExtensãoEEtica.pdf)
 1. [:notebook: Como ler textos científicos e registrar o que foi lido?](01-SlidesDasAulas/IPI-04-ComoLerTextosCientíficos.pdf)
 1. [:notebook: Como escrever texto científico na área de Informática? Algumas orientações de escrita](01-SlidesDasAulas/IPI-05-OrientaçõesDeEscritaCientifica.pdf)
-1. [:notebook: Escrevendo o seu texto científico em Latex: 10 dicas básicas](01-SlidesDasAulas/IPI-06-ComeçandoAUsarLatex)
+1. [:notebook: Escrevendo o seu texto científico em Latex: 10 dicas básicas](01-SlidesDasAulas/IPI-06-ComeçandoAUsarLatex.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 1: Introdução](01-SlidesDasAulas/IPI-Projeto1-Introdução.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 2: Fundamentação teórica e trabalhos relacionados](01-SlidesDasAulas/IPI-Projeto2-FundamentaçãoTeóricaTrabalhosRelacionados.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 3: Materiais e Métodos](01-SlidesDasAulas/IPI-Projeto3-MateriaisMétodos.pdf)
