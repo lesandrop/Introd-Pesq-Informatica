@@ -1,7 +1,9 @@
 # MEMORIAL ACADÊMICO-CIENTÍFICO PRÉ-GRADUAÇÃO
 
-Lesandro Ponciano (PUC Minas)
+**Lesandro Ponciano (PUC Minas)**
+
 _Disciplina_: Introdução à Pesquisa em Informática
+
 _Curso_: Engenharia de Software - PUC Minas - Praça da Liberdade
 
 
