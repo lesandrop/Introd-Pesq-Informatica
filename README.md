@@ -1,4 +1,6 @@
-# Introdução à Pesquisa em Informática 
+# INTRODUÇÃO À PESQUISA EM INFORMÁTICA
+
+**Lesandro Ponciano (PUC Minas)**
 
 ## Informações da Disciplina
 * Curso: **Engenharia de Software na PUC Minas - Praça da Liberdade**
@@ -21,7 +23,7 @@
 
 ## Atividades
 
-* [Memorial Acadêmico-científico pré-graduação](02-TrabalhosHandsOnOficinas/MemorialAcadêmicoCientificoPreGraduacao.md)
+* [Memorial Acadêmico-científico pré-graduação](02-TrabalhosHandsOnOficinas/MemorialAcademicoCientificoPreGraduacao.md)
 * Divulgação Científica em Engenharia de Software
 * Mini-artigo científico
 * Debate Estruturado
