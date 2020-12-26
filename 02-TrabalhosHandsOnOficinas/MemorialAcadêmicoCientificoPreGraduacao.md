@@ -1,6 +1,9 @@
-# Memorial Acadêmico-Científico Pré-Graduação
-_Introdução à Pesquisa em Informática_, 
-_Prof. Lesandro Ponciano (PUC Minas)_
+# MEMORIAL ACADÊMICO-CIENTÍFICO PRÉ-GRADUAÇÃO
+
+Lesandro Ponciano (PUC Minas)
+_Disciplina_: Introdução à Pesquisa em Informática
+_Curso_: Engenharia de Software - PUC Minas - Praça da Liberdade
+
 
 ## Objetivo
 
@@ -25,7 +28,3 @@ Naturalmente, o memorial não se restringe a esses itens. O aluno pode abordar o
 ## Orientações de formatação do documento
 
 O texto deve ter no mínimo 2 laudas completas e no máximo três laudas completas, em tamanho A4. A formatação deve ser com fonte Times New Roman, tamanho 12, espaçamento entrelinhas de 1.5, espaço de 1 linha entre parágrafos, margens de 2 centímetros. A primeira linha deve conter o título do memorial, a segunda deve conter o nome do aluno e a terceira deve conter a data em que foi escrito. O restante do texto é o corpo do memorial. O texto deve ser direto e auto-contido, não podendo conter, por exemplo, subseções, hiperlinks e notas de rodapé.
-
----
-
-_Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
