@@ -1,18 +1,16 @@
 # INTRODUÇÃO À PESQUISA EM INFORMÁTICA
 
-**Lesandro Ponciano (PUC Minas)**
+**Lesandro Ponciano**
 
-## Informações da Disciplina
-* Curso: **Engenharia de Software na PUC Minas - Praça da Liberdade**
-* Turno: **Noturno**
-* Prof.: **Lesandro Ponciano**  [[Lattes iD](http://lattes.cnpq.br/2211388362277178)] - [[Orcid iD](http://orcid.org/0000-0002-5724-0094)]
-* Semestre: **2020.2**
+## Informações
+* Disciplina no Curso de **Engenharia de Software na PUC Minas - Praça da Liberdade**
+* Prof. **Lesandro Ponciano**  [[Lattes iD](http://lattes.cnpq.br/2211388362277178)] - [[Orcid iD](http://orcid.org/0000-0002-5724-0094)]
 
 ## Slides das Aulas Expositivas
-1. [:notebook: Introdução à Ciência](01-SlidesDasAulas/IPI-01-Introdu%C3%A7%C3%A3o%C3%80Ci%C3%AAncia.pdf)
-1. [:notebook: Ler, pesquisar, escrever e divulgar](01-SlidesDasAulas/IPI-02-LerPesquisarEscreverDivulgar.pdf)
-1. [:notebook: Ciência cidadã, extensão universitária e ética na ciência](01-SlidesDasAulas/IPI-03-CiênciaCidadãExtensãoEEtica.pdf)
-1. [:notebook: Como ler textos científicos e registrar o que foi lido?](01-SlidesDasAulas/IPI-04-ComoLerTextosCientíficos.pdf)
+1. [:notebook: Introdução à Ciência](01-SlidesDasAulas/IPI-01-IntroduçãoÀCiência.pdf)
+1. [:notebook: Ciência cidadã, extensão universitária e ética na ciência](01-SlidesDasAulas/IPI-02-CiênciaCidadãExtensãoEtica.pdf)
+1. [:notebook: ](01-SlidesDasAulas/IPI-03-BasesDeDadosSoftwaresÍndicesBibliométricos.pdf)
+1. [:notebook: Bases de dados científicas, software de gestão de bibliografia e índices bibliométricos](01-SlidesDasAulas/IPI-04-ComoLerTextosCientíficos.pdf)
 1. [:notebook: Como escrever texto científico na área de Informática? Algumas orientações de escrita](01-SlidesDasAulas/IPI-05-OrientaçõesDeEscritaCientifica.pdf)
 1. [:notebook: Escrevendo o seu texto científico em Latex: 10 dicas básicas](01-SlidesDasAulas/IPI-06-ComeçandoAUsarLatex.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 1: Introdução](01-SlidesDasAulas/IPI-Projeto1-Introdução.pdf)
