@@ -9,14 +9,16 @@
 ## Slides das Aulas Expositivas
 1. [:notebook: Introdução à Ciência](01-SlidesDasAulas/IPI-01-IntroduçãoÀCiência.pdf)
 1. [:notebook: Ciência cidadã, extensão universitária e ética na ciência](01-SlidesDasAulas/IPI-02-CiênciaCidadãExtensãoEtica.pdf)
-1. [:notebook: ](01-SlidesDasAulas/IPI-03-BasesDeDadosSoftwaresÍndicesBibliométricos.pdf)
-1. [:notebook: Bases de dados científicas, software de gestão de bibliografia e índices bibliométricos](01-SlidesDasAulas/IPI-04-ComoLerTextosCientíficos.pdf)
-1. [:notebook: Como escrever texto científico na área de Informática? Algumas orientações de escrita](01-SlidesDasAulas/IPI-05-OrientaçõesDeEscritaCientifica.pdf)
+1. [:notebook: Bases de dados científicas, software de gestão de bibliografia e índices bibliométricos](01-SlidesDasAulas/IPI-03-BasesDeDadosSoftwaresÍndicesBibliométricos.pdf)
+1. [:notebook: Como ler textos científicos e registrar o que foi aprendido?](01-SlidesDasAulas/IPI-04-ComoLerTextosCientíficos.pdf)
+1. [:notebook: Como escrever texto científico na área de Informática? Algumas orientações de escrita](01-SlidesDasAulas/IPI-05-OrientaçõesDeEscritaCientífica.pdf)
 1. [:notebook: Escrevendo o seu texto científico em Latex: 10 dicas básicas](01-SlidesDasAulas/IPI-06-ComeçandoAUsarLatex.pdf)
-1. [:notebook: Projeto de Pesquisa - Parte 1: Introdução](01-SlidesDasAulas/IPI-Projeto1-Introdução.pdf)
-1. [:notebook: Projeto de Pesquisa - Parte 2: Fundamentação teórica e trabalhos relacionados](01-SlidesDasAulas/IPI-Projeto2-FundamentaçãoTeóricaTrabalhosRelacionados.pdf)
-1. [:notebook: Projeto de Pesquisa - Parte 3: Materiais e Métodos](01-SlidesDasAulas/IPI-Projeto3-MateriaisMétodos.pdf)
-1. [:notebook: Projeto de Pesquisa - Parte 4: Evidências de Viabilidade](01-SlidesDasAulas/IPI-Projeto4-EvidênciasViabilidade.pdf)
+1. [:notebook: Projeto de Pesquisa - Parte 1: Introdução](01-SlidesDasAulas/IPI-07-Projeto1-Introdução.pdf)
+1. [:notebook: Projeto de Pesquisa - Parte 2: Fundamentação teórica e trabalhos relacionados](01-SlidesDasAulas/IPI-08-Projeto2-FundamentaçãoTeóricaTrabalhosRelacionados.pdf)
+1. [:notebook: Projeto de Pesquisa - Parte 3: Materiais e Métodos](01-SlidesDasAulas/IPI-09-Projeto3-MateriaisMétodos.pdf)
+1. [:notebook: Projeto de Pesquisa - Parte 4: Classificação de Pesquisa](01-SlidesDasAulas/IPI-10-Projeto4-ClassificaçãoDePesquisa.pdf)
+1. [:notebook: Projeto de Pesquisa - Parte 5: Instrumentos](01-SlidesDasAulas/IPI-11-Projeto5-Instrumentos.pdf)
+1. [:notebook: Projeto de Pesquisa - Parte 6: Evidências de Viabilidade](01-SlidesDasAulas/IPI-12-Projeto4-EvidênciasViabilidade.pdf)
 
 
 ## Atividades
