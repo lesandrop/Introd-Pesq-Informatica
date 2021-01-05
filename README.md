@@ -18,7 +18,7 @@
 1. [:notebook: Projeto de Pesquisa - Parte 3: Materiais e Métodos](01-SlidesDasAulas/IPI-09-Projeto3-MateriaisMétodos.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 4: Classificação de Pesquisa](01-SlidesDasAulas/IPI-10-Projeto4-ClassificaçãoDePesquisa.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 5: Instrumentos](01-SlidesDasAulas/IPI-11-Projeto5-Instrumentos.pdf)
-1. [:notebook: Projeto de Pesquisa - Parte 6: Evidências de Viabilidade](01-SlidesDasAulas/IPI-12-Projeto4-EvidênciasViabilidade.pdf)
+1. [:notebook: Projeto de Pesquisa - Parte 6: Evidências de Viabilidade](01-SlidesDasAulas/IPI-12-Projeto6-EvidênciasViabilidade.pdf)
 
 
 ## Atividades
@@ -53,7 +53,7 @@ LaTex será usado na unidade curricular como sistema de preparação de document
 
 ## Uso e Contribuição com Materiais
 
-Neste repositório está o material da unidade curricular que pode ser mantido público. Trata-se de um material dinâmico, constantemente atualizado. Outros materiais, atividades e roteiros devem ser baixados diretamente do Sistema de Gerenciamento Acadêmico (SGA). Notas e correções de atividades são divulgadas exclusivamente pelo SGA. 
+Neste repositório está o material da unidade curricular que pode ser mantido público. Trata-se de um material dinâmico, constantemente atualizado. Outros materiais, atividades e roteiros devem ser baixados diretamente do _Learning Management System_. 
 
 Os estudantes da unidade curricular podem contribuir com correções e sugestões neste repositório por meio de _pull requests_, _issues_ e _comentários_. Tais contribuições poderão, ao fim do semestre, após análise do professor, serem pontuadas com até 3 pontos extras :nerd_face: na unidade curricular. Serão levadas em consideração quatro métricas de engajamento: _activity ratio_, _relative activity duration_, _daily devoted time_, e _variation in periodicity_. Para saber mais sobre essas métricas, leia o artigo [Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects](https://arxiv.org/abs/1501.02134).
 
