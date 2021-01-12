@@ -16,7 +16,7 @@
 1. [:notebook: Projeto de Pesquisa - Parte 1: Introdução](01-SlidesDasAulas/IPI-07-Projeto-1-Introdução.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 2: Fundamentação teórica e trabalhos relacionados](01-SlidesDasAulas/IPI-08-Projeto-2-FundamentaçãoTeóricaTrabalhosRelacionados.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 3: Materiais e Métodos](01-SlidesDasAulas/IPI-09-Projeto-3-MateriaisMétodos.pdf)
-1. [:notebook: Projeto de Pesquisa - Parte 4: Classificação de Pesquisa](01-SlidesDasAulas/IPI-10-Projeto4-ClassificaçãoDePesquisa.pdf)
+1. [:notebook: Projeto de Pesquisa - Parte 4: Classificação de Pesquisa](01-SlidesDasAulas/IPI-10-Projeto-4-ClassificaçãoDePesquisa.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 5: Instrumentos](01-SlidesDasAulas/IPI-11-Projeto5-Instrumentos.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 6: Evidências de Viabilidade](01-SlidesDasAulas/IPI-12-Projeto6-EvidênciasViabilidade.pdf)
 
