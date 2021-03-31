@@ -24,7 +24,7 @@
 ## Atividades
 
 * [Memorial Acadêmico-científico pré-graduação](02-TrabalhosHandsOnOficinas/MemorialAcademicoCientificoPreGraduacao.md)
-* Divulgação Científica em Engenharia de Software
+* [Divulgação Científica em Engenharia de Software](02-TrabalhosHandsOnOficinas/DivulgacaoCientificaEmEngenhariaDeSoftware.md)
 * Mini-artigo científico
 * Debate Estruturado
 * Elaboração de um Projeto de Pesquisa
