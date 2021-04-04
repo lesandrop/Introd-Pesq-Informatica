@@ -7,6 +7,7 @@ _A disciplina de Introdução à Pesquisa em Informática (IPI) ocorre semestral
 
 ## Lista de artigos debatidos por ano e semestre
 
+* 2021-1sem - Debate Estruturado. Os textos debatidos foram: 1) [Where’s the Theory for Software Engineering?](https://doi.org/10.1109/MS.2012.127) e 2)[Prospects for an engineering discipline of software](https://doi.org/10.1109/52.60586)
 * 2020-2sem - Debate Estruturado. Os textos debatidos foram: 1) [Is computer science science](https://dl.acm.org/doi/10.1145/1053291.1053309) e 2)[Software is not science](https://matt-welsh.blogspot.com/2011/11/software-is-not-science.html)
 
 
