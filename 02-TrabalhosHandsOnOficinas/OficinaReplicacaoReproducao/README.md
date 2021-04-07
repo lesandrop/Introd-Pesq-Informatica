@@ -15,7 +15,7 @@ O artigo [Volunteers' Engagement in Human Computation for Astronomy Projects](ht
 
 ## Dados usados coletados e gerados na replicação
 
-Os dados brutos coletados por meio da API estão no arquivo [``data.data``](data.data), a coleta foi feita em 24/03/2021. Os dados finais, totalmente processados e prontos para serem exibidos no gráfico, estão no arquivo [``activity.data``](activity.data).
+Os dados brutos coletados por meio da API estão no arquivo [``data.json``](data.json), a coleta foi feita em 24/03/2021. Os dados finais, totalmente processados e prontos para serem exibidos no gráfico, estão no arquivo [``activity.data``](activity.data).
 
 ---
 _Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
