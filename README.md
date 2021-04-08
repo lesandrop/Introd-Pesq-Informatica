@@ -41,16 +41,11 @@ Fiz a curadoria de alguns materiais online sobre pesquisa científica. São mate
 1. Em [:link: Vida de Cientísta](00b-VidaDeCientista) é fundamental ler [:link: Você e sua pesquisa](00b-VidaDeCientista/VoceESuaPesquisa.pdf)
 
 
-## LaTex
+## Oficinas
 
-LaTex será usado na unidade curricular como sistema de preparação de documentos. Aqui se encontram reunidos alguns materiais que serão relevantes ao longo das aulas.
+* _Oficina de LaTex_. LaTex é usado na unidade curricular como sistema de preparação de documentos. Há uma aula sobre o tópico, os [:notebook: slides](01-SlidesDasAulas/IPI-06-ComeçandoAUsarLatex) e [código](02-TrabalhosHandsOnOficinas/OficinaLatex) estão disponíveis. Fiz a curadoria de um conjunto de vídeos com aulas de LaTex para os estudantes interessados em se aprofundar no tópico, os vídeos estão [:tv: aqui](05-Ferramentas/Latex-Videos.md). Alguns materiais adicionais coletados na internet sobre o tópicos são: [:notebook:Escrita matemática em LaTex](05-Ferramentas/Latex-Math.pdf), [:notebook: Símbolos em LaTex](05-Ferramentas/Latex-Symbols-a4.pdf) e [:notebook: Algoritmo em LaTex](05-Ferramentas/Latex-algorithm2e.pdf).
 
-* Haverá uma aula sobre o tópico, os [:notebook: slides](01-SlidesDasAulas/IPI-06-ComeçandoAUsarLatex) e [código](02-TrabalhosHandsOnOficinas/OficinaLatex) estão disponívies.
-
-* Fiz a curadoria de um conjunto de vídeos com aulas de LaTex para os estudantes interessados em se aprofundar no tópico, os vídeos estão [:tv: aqui](05-Ferramentas/Latex-Videos.md).
-
-* Alguns materiais dicionais coletados na internet sobre o tópicos são: [:notebook:Escrita matemática em LaTex](05-Ferramentas/Latex-Math.pdf), [:notebook: Símbolos em LaTex](05-Ferramentas/Latex-Symbols-a4.pdf) e [:notebook: Algoritmo em LaTex](05-Ferramentas/Latex-algorithm2e.pdf).
-
+* _Oficina de Replicação/Reprodução_. Características fundamentais da ciência são replicabilidade, reprodutibilidade e replicabilidade. Realizamos na disciplina uma oficina bastante simples, mas que ajuda a exemplificar esses conceitos no contexto de Engenharia de Software. O material desta oficina [está disponível aqui no repositório](02-TrabalhosHandsOnOficinas\OficinaReplicacaoReproducao), ele é atualizado a cada nova edição para incluir os códigos e dados gerais usados na replicação/reprodução.
 
 ## Uso e Contribuição com Materiais
 
