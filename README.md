@@ -13,6 +13,7 @@
 1. [:notebook: Como ler textos científicos e registrar o que foi aprendido?](01-SlidesDasAulas/IPI-04-ComoLerTextosCientíficos.pdf)
 1. [:notebook: Como escrever texto científico na área de Informática? Algumas orientações de escrita](01-SlidesDasAulas/IPI-05-OrientaçõesDeEscritaCientífica.pdf)
 1. [:notebook: Escrevendo o seu texto científico em Latex: 10 dicas básicas](01-SlidesDasAulas/IPI-06-ComeçandoAUsarLatex.pdf)
+1. [:notebook: O Processo de Pesquisa Científica](01-SlidesDasAulas/IPI-07-ProcessoDePesquisaCientifica.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 1: Introdução](01-SlidesDasAulas/IPI-07-Projeto-1-Introdução.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 2: Fundamentação teórica e trabalhos relacionados](01-SlidesDasAulas/IPI-08-Projeto-2-FundamentaçãoTeóricaTrabalhosRelacionados.pdf)
 1. [:notebook: Projeto de Pesquisa - Parte 3: Materiais e Métodos](01-SlidesDasAulas/IPI-09-Projeto-3-MateriaisMétodos.pdf)
