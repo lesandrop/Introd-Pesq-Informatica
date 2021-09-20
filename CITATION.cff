@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "Se você usar algo deste repositório, cite-o conforme abaixo"
 authors:
-- family-names: "Lesandro"
-  given-names: "Ponciano"
+- family-names: "Ponciano"
+  given-names: "Lesandro"
   orcid: "https://orcid.org/0000-0002-5724-0094"
 title: "Notas de Aula de Introdução à Pesquisa em Informática"
 version: 1.0.0
