@@ -14,7 +14,7 @@
 * 2018 - [Texto "A ciência cidadã no Brasil" de Lesandro Ponciano no Jornal Estado de Minas em 01/05/2018](https://www.researchgate.net/publication/338224938_A_ciencia_cidada_no_Brasil)
 * 2018 - [Vídeo - Horizonte Notícia Entrevista - Ciência Cidadã](https://www.youtube.com/watch?v=SVMZ7IAZl04)
 * 2020 - [Vídeo - ICEI Talk: Ciência Participativa e Cidadã na Perspectiva da Tecnologia](https://www.youtube.com/watch?v=efPpGPp8Jtk)
-* 2022 - [Vídeo - Lançamento da Civis Plataforma de Ciência Cidadã pelo IBIC](https://www.youtube.com/watch?v=_nPqmcq0gos)
+* 2022 - [Vídeo - Lançamento da Civis Plataforma de Ciência Cidadã pelo IBICT](https://www.youtube.com/watch?v=_nPqmcq0gos)
 * 2022 - [Capítulo de Livro: A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico](https://lesandrop.github.io/site/papers/LesandroPonciano-EbookPUCMinas-Cap%C3%ADtulo21-2022.pdf)
 
 ---
