@@ -9,6 +9,7 @@
 1. PERNICI, Barbara. Special Topics in Information Technology. Springer International Publishing, 2020. ISBN 978-3-030-32094-2. DOI 10.1007/978-3-030-32094-2  Disponível em <https://link.springer.com/book/10.1007/978-3-030-32094-2>
 1. JARMAI, Katharina. Responsible Innovation: Business Opportunities and Strategies for Implementation. Springer Nature. ISBN: 978-94-024-1720-3 DOI 10.1007/978-94-024-1720-3. Disponível em <https://link.springer.com/book/10.1007/978-94-024-1720-3>
 1. Jeunon, Franca Arenare; Lobato, Wolney; Hanriot, Sérgio de Morais. Iniciação científica: destaques 2018.  Belo Horizonte: Editora PUC Minas, 2019. ISBN 978-85-8229-109-2. Disponível em <https://editora.pucminas.br/arquivos/obra/arquivo_digital/201/MIOLOGRAFICA.pdf>
+2. * ["Dossiê contra o negacionismo da ciência: A importância do conhecimento científico"](https://books.google.de/books?id=uNluEAAAQBAJ)
 
 ---
-_Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
+_Lesandro Ponciano (lesandro.ponciano at gmail.com)_
