@@ -29,7 +29,7 @@
 
 * 2019 - Matéria na Revista PUC Minas -  [Ciência ao alcance de todos](https://revista.pucminas.br/revista/materia/ciencia-ao-alcance-de-todos-2/).
 
-* 2018 - Texto - ["A ciência cidadã no Brasil" de Lesandro Ponciano no Jornal Estado de Minas em 01/05/2018](https://www.researchgate.net/publication/338224938_A_ciencia_cidada_no_Brasil). Também disponível [aqui](https://lesandrop.github.io/site/opinion/EstadoDeMinas-2018-AcienciacidadanoBrasil0.pdf).
+* 2018 - Texto - ["A ciência cidadã no Brasil" de Lesandro Ponciano no Jornal Estado de Minas em 01/05/2018](https://www.researchgate.net/publication/338224938_A_ciencia_cidada_no_Brasil). Também disponível [aqui](https://lesandrop.github.io/site/opinion/Opiniao-CienciaCidadaNoBrasil-EstadoDeMinas.pdf).
 
 * 2018 - Vídeo - Horizonte Notícia Entrevista - ["Ciência Cidadã"](https://www.youtube.com/watch?v=SVMZ7IAZl04).
 
