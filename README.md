@@ -1,3 +1,7 @@
+**Este repositório está arquivado, pois todo o conteúdo de introdução à pesquisa em informática presente neste repositório foi atualizado e reestruturado. O material atual está disponível em https://github.com/lesandrop/site/tree/master/teaching/IPI Esse material também pode ser acessado na seguinte página web https://lesandrop.github.io/site/teaching/IPI/index.html**
+
+---
+
 # INTRODUÇÃO À PESQUISA EM INFORMÁTICA
 
 **Lesandro Ponciano**
